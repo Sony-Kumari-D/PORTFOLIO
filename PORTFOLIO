@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Business Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+}
+
+header h1 {
+    margin: 0;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    padding: 0px 0;
+}
+
+section h2 {
+    font-size: 24px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <h1> DINANATH SINGH FORMAN ROLLING MILL </h1>
+                <h4>WITH FULL TEAM</h4>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#Work">Work</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>My name is DINANATH SINGH, and I have been a foreman engineer with long-term experience. I am a hardworking and sincere person. I have my own team </p>
+            <p>"मेरा नाम दीनानाथ सिंह है, और मेरे पास दीर्घकालिक अनुभव के साथ फोरमैन इंजीनियर के रूप में काम करने का अनुभव है। मैं मेहनती और ईमानदार व्यक्ति हूँ। मेरे पास मेरी अपनी टीम है।"</p>
+        </div>
+    </section>
+
+    <section id="services" class="section">
+        <div class="container">
+            <h2>Our Services</h2>
+            <p>The production of rolling mill will be according to its condition . even if the condition is not good . I will setup the condition and work on the production.
+            A TEAM OF :
+            Mill Incharge 
+            Mill Fitter
+            Mill Operator
+            Mill helper 
+            Mill Weldor and 
+            MECHANICAL DEPARTMENT:
+            Mechanical Incharge 
+            Senior Fitter
+            Fitter
+            Weldor
+            Helper
+            Roll Bearing Fitter
+            Mistry
+            Engineer
+            WORKSHOP DEPARTMENT:
+            Incharge
+            Turner
+            Shaper Man
+            Helper
+            ELECTRICAL DEPARTMENT:
+            Foreman
+            Electrisian
+            DC Operator
+            Helper
+            Development work The maximum total number of workers will be 85 an the work will go 24 hours</p>
+            <p>रोलिंग मिल का उत्पादन उसकी स्थिति के अनुसार होगा, चाहे स्थिति अच्छी न हो। मैं स्थिति को सेटअप करूँगा और उत्पादन पर काम करूँगा। एक टीम में होगा: मिल इनचार्ज, मिल फिटर, मिल ऑपरेटर, मिल हेल्पर, मिल वेल्डर और मैकेनिकल डिपार्टमेंट में: मैकेनिकल इनचार्ज, सीनियर फिटर, फिटर वेल्डर, हेल्पर, रोल बेयरिंग फिटर, मिस्ट्री इंजीनियर और वर्कशॉप डिपार्टमेंट में: इनचार्ज, टर्नर, शेपर मैन, हेल्पर और इलेक्ट्रिकल डिपार्टमेंट में: फोरमैन, इलेक्ट्रीशियन, डीसी ऑपरेटर, हेल्पर, डेवलपमेंट वर्क। अधिकतम कुल कर्मचारियों की संख्या 85 होगी और काम 24 घंटे चलेगा।"</p>
+        </div>
+    </section>
+
+    <section id="Work" class="section">
+        <div class="container">
+            <h2>Work</h2>
+            <p>Rolling Mill expert in Rolling, Extrusion, and Drawing(RXN)fitting, Running, consultant and high production according to the mill condition.</p>
+            <p>"रोलिंग मिल में एक एक्सपर्ट जो रोलिंग, एक्सट्रूशन, और ड्रॉइंग (आरएक्सएन) फिटिंग, रनिंग, सलाहकार, और मिल की स्थिति के हिसाब से उच्च उत्पादन में विशेषज्ञ है।"</p>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p></p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>PHONE NUMBER :9123113429
+            WHATS APP NUMBER : 9940828192
+            EMAIL:dinathasingh1234@gmail.com </p>
+        </div>
+    </footer>
+</body>
+</html>
